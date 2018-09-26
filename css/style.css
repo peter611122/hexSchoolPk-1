@@ -46,3 +46,19 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+
+
+.warp{
+	margin: 0 auto;
+	width: auto;
+}
+
+.bar{
+    margin: 0 auto;
+	width: 940px;
+	height: 40px;
+    background: gray;
+    margin-top: 30px;
+	/* margin-bottom: 5px; */
+}
