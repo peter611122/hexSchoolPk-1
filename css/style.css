@@ -51,7 +51,7 @@ table {
 
 .warp{
 	margin: 0 auto;
-	width: auto;
+	width: 1024px;
 }
 
 /* .header---------------------------------------------------------- */
@@ -357,7 +357,7 @@ table {
 
 .introduce-title1{
     float: left;
-    background-image: url(../images/component41.png);
+    background-image: url(../images/component44.png);
     background-repeat: no-repeat;
     width: 89px;
     height: 308px;
@@ -407,7 +407,7 @@ table {
 .introduce-picture2{
     float: left;
     margin: -20px 0px 0px 42px;
-    background-image: url(https://images.unsplash.com/photo-1519730722595-a5ff788dea4d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2712a33fe9b13532f0682ac4e1e749b8&auto=format&fit=crop&w=600&q=60);
+    background-image: url(https://images.unsplash.com/photo-1501432781167-c0ccfd492297?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=621c4e9986fba1c4514dfdc30e095bd2&auto=format&fit=crop&w=900&q=60);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -469,11 +469,11 @@ table {
 
 
 .introduce-title3{
+    width: 90px;
+    height: 329px;
     float: left;
-    background-image: url(../images/component41.png);
+    background-image: url(../images/component42.png);
     background-repeat: no-repeat;
-    width: 89px;
-    height: 308px;
     margin: 0px 0px 0px 465px;
 }
 
@@ -635,7 +635,7 @@ table {
 	width: 1024px;
 	height: 116px;
     background: #3F5D45;
-    margin-top: 30px;
+    /* margin-top: 30px; */
 	/* margin-bottom: 5px; */
 }
 
@@ -665,7 +665,6 @@ table {
 .inputMail{
     width: 380px;
     height: 56px;
-    border: #fff 1px solid;
     margin: 30px 0 0 124px;
     float: left;
     
@@ -719,10 +718,119 @@ table {
 
 /* .footer------------------------------------------------ */
 
+.footer{
+    width: 1024px;
+    height: 341px;
+    background-color: #EAF0ED;
+    margin: 0 auto;
+    
+
+}
+
+
+.footerLeft{
+    width: 227px;
+    height: 282px;
+    margin: 39px 0 0 122px;
+    
+    float: left;
+
+}
+
+
+.footerLogo{
+    width: 172px;
+    height: 27px;
+
+}
+
+
+.footerContent{
+    margin-top: 115px;
+
+
+}
+
+
+.footerContent li{
+    line-height: 24px;
+    color: #3F5D45; 
+    font-family: Microsoft JhengHei;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+.footerIcon{
+    margin-top: 30px;
+}
+
+.footerIcon a{
+    margin-right: 8px;
+
+}
+
+
+
+
+
+
+
+
+.footerRight{
+    width: 258px;
+    height: 282px;
+    margin: 39px 0 0 295px;
+    float: left;
+
+}
+
+
+
+
+.footerRight img{
+
+    float: right;
+    
+
+
+}
+
+
+.footerRight p{
+    margin-top: 45px;
+    float: right;
+    color: #3F5D45;
+    font-family: Times, Regular;
+    font-size: 16px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 .clearfix{
     clear: both;
-
+    
 }
