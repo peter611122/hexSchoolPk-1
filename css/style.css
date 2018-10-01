@@ -640,16 +640,89 @@ table {
 }
 
 
+.logoImage{
+    width: 40px;
+    height: 40px;
+    margin-left: 122px;
+    margin-top: 38px;
+
+
+    float: left;
+}
+
+
+.subMail{
+    color: white;
+    padding: 45px 0 0 20px;
+    font-family: Microsoft JhengHei;
+    font-size: 24px;
+
+    float: left;
+}
 
 
 
+.inputMail{
+    width: 380px;
+    height: 56px;
+    border: #fff 1px solid;
+    margin: 30px 0 0 124px;
+    float: left;
+    
+    
+}
+
+.mailIcon{
+    width: 62px;
+    height: 54px;
+    border: #fff 1px solid; 
+    float: left;
+    background-color: white;
+}
+
+.mailimg{
+
+    display:block;       
+    margin:15px auto;
 
 
+
+}
+
+
+.mailAddress{
+    
+    width: 248px;
+    height: 52px;
+    border: #fff 1px solid; 
+    font-size: 18px;
+    float: left;
+}
+
+
+.mailButton{
+    width: 66px;
+    height: 56px;
+    padding: 0 0 0 0;
+    border: #FFE180 1px solid;
+    float: left;
+    background-color: #FFE180;
+    font-size: 24px;
+    color: #3F5D45;
+    font-family: fantasy;
+    font-weight: 1000;
+    text-align:center;
+    line-height:40px;
+
+}
+
+
+/* .footer------------------------------------------------ */
 
 
 
 
 .clearfix{
     clear: both;
-    
-  }
+
+}
